@@ -1,6 +1,6 @@
 # About the project
  
-컴퓨터 알고리즘 학습지원 웹서비스인 프로그래머스(https://programmers.co.kr/learn/challenges?tab=all_challenges) 사용편의를 제고하고, 동기를 부여하기 위한 목적을 가지고 있다. 이 웹프로그램을 통해 실현하고자 하는 구체적 목표는 다음과 같다.
+컴퓨터 알고리즘 학습지원 웹서비스인 프로그래머스(https://programmers.co.kr/learn/challenges?tab=all_challenges) 사용편의를 제고하고 동기를 부여하려는 목적을 가지고 있다. 이 웹프로그램을 통해 실현하고자 하는 기술적 목표는 다음과 같다.
 
  
 * **프로그래머스에서 자신이 푼 문제들을 관리할 수 있다** :
@@ -12,6 +12,7 @@
 
 # Process of the project
 
+이 프로젝트의 진행 과정 및 순서는 다음과 같다.
  
 1. 데이터 크롤링을 통해 필요한 데이터를 확보한다.
 2. SQL과 PLSQL을 통해 데이터를 필요한 형태로 저장/수정/검색한다.
