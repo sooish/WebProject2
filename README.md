@@ -53,7 +53,13 @@
 
 # Images
 
-![sql trigger1](/desktop/sqk_trigger1.png)
+<div>
+<img src="https://user-images.githubusercontent.com/34482785/64932636-69da4500-d87b-11e9-85b6-02b500724140.PNG" width="90%"></img>
+<img src="https://user-images.githubusercontent.com/34482785/64932634-69da4500-d87b-11e9-9bd8-6ba37214925f.PNG" width="90%"></img>
+<img src="https://user-images.githubusercontent.com/34482785/64932637-6a72db80-d87b-11e9-920e-a4b491297c23.PNG" width="90%"></img>
+<img src="https://user-images.githubusercontent.com/34482785/64932635-69da4500-d87b-11e9-8a5b-e20ea966e996.PNG" width="90%"></img>
+</div>
+
  
  
 
