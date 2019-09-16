@@ -1,11 +1,12 @@
 # About this project
 
 
-| Nuxeo QA Job | Status | 
+| Works | Status | 
 |-----|--------|
 | Build & Unit tests | [![Build Status](https://qa.nuxeo.org/jenkins/buildStatus/icon?job=master/nuxeo-master)](https://qa.nuxeo.org/jenkins/job/master/job/nuxeo-master)|
 | WebDriver functional testing | [![Test Status](https://qa.nuxeo.org/jenkins/buildStatus/icon?job=master/FT-nuxeo-master-webdriver-cap-tomcat)](https://qa.nuxeo.org/jenkins/job/master/job/FT-nuxeo-master-webdriver-cap-tomcat)
 |Funkload tests with multi-DB |[![Test Status](https://qa.nuxeo.org/jenkins/buildStatus/icon?job=master/FT-nuxeo-master-funkload-cap-tomcat-multidb)](https://qa.nuxeo.org/jenkins/job/master/job/FT-nuxeo-master-funkload-cap-tomcat-multidb)
+
 
 
 # Purpose of the project
@@ -15,24 +16,35 @@
  
 * **프로그래머스에 자신이 푼 문제들을 관리할 수 있다**:
 추가/수정/삭제 기능
-* **다르 친구들으 문제풀이를 검색해볼 수 있다**
-* **활동 내역에 따라 등급을 부여받고, 전체 랭킹 Top3를 제시한다**:
+* **다른 사람들의 문제풀이를 검색해볼 수 있다.**
+* **활동 내역에 따라 등급을 부여받고, 전체 랭킹 Top3를 제시한다.**
+
 
 
 # Built with
 
-RDBMS : Oracle
-Back End Development Language : Java / Servlet & JSP / SQL
-Front End Development Language : Java Script / HTML / CSS
-Library : Lombok, Google Chart 
-Tool : Maven, Eclipse, Apache Tomcat, Kakao Oven,
-Additional technical set : Ajax
+* **RDBMS : Oracle
+* **Back End Development Language : Java / Servlet & JSP / SQL
+* **Front End Development Language : Java Script / HTML / CSS
+* **Library : Lombok / Google Chart 
+* **Tool : Maven / Eclipse / Apache Tomcat / Kakao Oven
+* **Additional technical set : Ajax / Selenium
+
+
 
 # Authors
 
-김동성
-김수경
-조영욱
+* **김동성
+* **김수경
+* **조영욱
 
-# Resources
+
+
+# Images
+
+![sql trigger1](/desktop/sqk_trigger1.png)
+![sql trigger2](/desktop/sqk_trigger2.png)
+ 
+
+
 
