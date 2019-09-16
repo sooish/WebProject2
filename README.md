@@ -36,7 +36,7 @@
 
 * **김수경**: Front-end  - [김수경의 깃헙](https://github.com/sooish)
 * **김동성**: Back-end - [김동성의 깃헙](https://github.com/sooish)
-* **조영욱**: Front-end & Back-end - [조영욱의 깃헙](https://github.com/sooish)
+* **조영욱**: Front-end & Back-end - [조영욱의 깃헙](https://github.com/youngwookjo)
 
 
 
