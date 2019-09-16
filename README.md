@@ -22,7 +22,7 @@
 
  
 
-| Works | Status | 
+| Items | Status | 
 |-----|--------|
 | 데이터크롤링| [![Build Status](https://qa.nuxeo.org/jenkins/buildStatus/icon?job=master/nuxeo-master)](https://qa.nuxeo.org/jenkins/job/master/job/nuxeo-master)|
 | SQL / PLSQL | [![Build Status](https://qa.nuxeo.org/jenkins/buildStatus/icon?job=master/nuxeo-master)](https://qa.nuxeo.org/jenkins/job/master/job/nuxeo-master)|
