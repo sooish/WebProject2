@@ -46,7 +46,7 @@
 # Authors
 
 * **김수경**: Front-end development : [김수경의 깃헙](https://github.com/sooish)
-* **김동성**: Back-end development : [김동성의 깃헙](https://github.com/sooish)
+* **김동성**: Back-end development : [김동성의 깃헙](https://github.com/awakeng)
 * **조영욱**: Front-end & Back-end development : [조영욱의 깃헙](https://github.com/youngwookjo)
 
 
