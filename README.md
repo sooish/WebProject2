@@ -23,20 +23,20 @@
 
 # Built with
 
-* **RDBMS : Oracle
-* **Back End Development Language : Java / Servlet & JSP / SQL
-* **Front End Development Language : Java Script / HTML / CSS
-* **Library : Lombok / Google Chart 
-* **Tool : Maven / Eclipse / Apache Tomcat / Kakao Oven
-* **Additional technical set : Ajax / Selenium
+* RDBMS : Oracle
+* Back End Development Language : Java / Servlet & JSP / SQL
+* Front End Development Language : Java Script / HTML / CSS
+* Library : Lombok / Google Chart 
+* Tool : Maven / Eclipse / Apache Tomcat / Kakao Oven
+* Additional technical set : Ajax / Selenium
 
 
 
 # Authors
 
-* **김동성
-* **김수경
-* **조영욱
+* **김동성**
+* **김수경**
+* **조영욱**
 
 
 
