@@ -1,6 +1,6 @@
 # About the project
  
-컴퓨터 알고리즘 학습지원 웹서비스인 프로그래머스(https://programmers.co.kr/learn/challenges?tab=all_challenges) 사용편의를 제고하고 동기를 부여하려는 목적을 가지고 있다. 이 웹프로그램을 통해 실현하고자 하는 기술적 목표는 다음과 같다.
+컴퓨터 알고리즘 학습지원 [웹서비스인 프로그래머스](https://programmers.co.kr/learn/challenges?tab=all_challenges) 사용편의를 제고하고 동기를 부여하려는 목적을 가지고 있다. 이 웹프로그램을 통해 실현하고자 하는 기술적 목표는 다음과 같다.
 
  
 * **프로그래머스에서 자신이 푼 문제들을 관리할 수 있다** :
